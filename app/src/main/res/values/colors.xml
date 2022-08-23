@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+<!--    suitmedia color-->
+    <color name="orange_suitmedia">#FF6700</color>
+    <color name="text_grey_suitmedia">#525252</color>
+    <color name="text_orange_suitmedia">#EC5F00</color>
+    <color name="text_copyright_suitmedia">#7D7979</color>
+    <color name="outline_grey_suitmedia">#D0CFCF</color>
 </resources>
